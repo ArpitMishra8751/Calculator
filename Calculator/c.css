@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+.container{
+    margin-top: 15%;
+    margin-left: 35%;
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+#screen{
+    height: 50px;
+    width: 100%;
+}
+button{
+    height: 47px;
+    width: 72px;
+}
